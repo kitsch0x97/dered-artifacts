@@ -1,0 +1,35 @@
+{
+  "precomp": [
+    "bzip2",
+    "brotli",
+    "libdeflate",
+    "zlib",
+    "zlib-ng"
+  ],
+  "lzbench": [
+    "bzip2",
+    "lzlib",
+    "zstd",
+    "brotli",
+    "libdeflate",
+    "lzfse",
+    "lzo",
+    "xz",
+    "zlib",
+    "zlib-ng",
+    "zstd"
+  ],
+  "turbobench": [
+    "bzip2",
+    "lzlib",
+    "zstd",
+    "brotli",
+    "bsc",
+    "libdeflate",
+    "lzfse",
+    "lzo",
+    "zlib",
+    "zlib-ng",
+    "zstd"
+  ]
+}
